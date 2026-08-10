@@ -8,7 +8,8 @@ public class EscapeSequence {
         System.out.println("Hello\rWorld!"); // \r is used to print carriage return
         System.out.println("Hello\fWorld!"); // \f is used to print form feed
         System.out.println("Hello\'World!"); // \' is used to print single quote
-        System.out.println("Hello\0World!"); // \0 is used to print null character
+        
+        System.out.println();
 
     }
 }
