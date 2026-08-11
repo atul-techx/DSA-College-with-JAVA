@@ -13,7 +13,6 @@ public class Variables{
         System.out.println(b);
 
         char c = 'A';               // DataType VarName = Value;
-        System.out.println(c);
-
+        System.out.println(c); 
     }
 }
