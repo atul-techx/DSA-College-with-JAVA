@@ -1,14 +1,10 @@
-import java.util.*;
-
 public class Operators {
     public static void main(String[] args){
-        int a = 30;
-        int b = 50;
-
-        int c = 40;
-        int d = 60;
 
         // Assignment Operators
+        int a = 30;
+        int b = 50;
+        
         System.out.println("Assignment Operators : \n");
         System.out.println(a+=a);
         System.out.println(a-=a);
@@ -18,6 +14,9 @@ public class Operators {
         
 
         // Arithmetic Operators
+        int c = 40;
+        int d = 60;
+
         System.out.println("Arithmetic Operators : \n");
         System.out.println("Addition: " + c+d);
         System.out.println("Subtraction: " + (c-d));

@@ -1,6 +1,4 @@
-import java.util.*;
-
-// // Data Type tells java what kind of data we can store and how many space it takes in memory.
+// Data Type tells java what kind of data we can store and how many space it takes in memory.
 
 public class DataType {
     public static void main(String[] args){
