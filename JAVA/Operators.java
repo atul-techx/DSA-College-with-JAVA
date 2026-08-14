@@ -46,5 +46,18 @@ public class Operators {
         System.out.println(C>D || C<D);
         System.out.println((C!=D) + "\n");
 
+        // Bitwise & Shift Operators
+        int f = 0b1010;
+        int e = 0b1100;
+        
+        System.out.println("Bitwise & Shift Operators : \n");
+        System.out.println("d & e : " + (f & e));
+        System.out.println("d | e : " + (f | e));
+        System.out.println("d ^ e : " + (f ^ e));
+        System.out.println("~d : " + (~f));
+        System.out.println("d << 2 : " + (f << 2));
+        System.out.println("e >> 1 : " + (e >> 1));
+        System.out.println("e >>> 1 : " + (e >>> 1));
+
     }
 }
