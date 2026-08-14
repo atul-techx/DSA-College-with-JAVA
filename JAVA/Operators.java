@@ -57,7 +57,18 @@ public class Operators {
         System.out.println("~d : " + (~f));
         System.out.println("d << 2 : " + (f << 2));
         System.out.println("e >> 1 : " + (e >> 1));
-        System.out.println("e >>> 1 : " + (e >>> 1));
+        System.out.println("e >>> 1 : " + (e >>> 1) + "\n");
+
+        // Unary Operators
+        int g = 10;
+        int h = 10;
+
+        System.out.println("Unary Operators : \n");
+        System.out.println("Postincrement : " + (g++));
+        System.out.println("Preincrement : " + (++g));
+
+        System.out.println("Postdecrement : " + (h--));
+        System.out.println("Predecrement : " + (--h) + "\n");
 
     }
 }
