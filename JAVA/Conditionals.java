@@ -10,7 +10,7 @@ public class Conditionals {
         if (age > 0 && age < 18){
             System.out.println("You are not eligible for vote.");
         }else{
-            System.out.println("You are elegible for Vote.");
+            System.out.println("You are eligible for Vote.");
         }
     }
 }
