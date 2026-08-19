@@ -7,7 +7,7 @@ public class Test1 {
         System.out.print("Enter Your Name : ");
         String Name = input.nextLine();
 
-        System.out.println("My Name is "+ Name);
+        System.out.println("My Name is : "+ Name);
 
         // Question 2nd
         System.out.print("Enter first Number : ");
