@@ -10,11 +10,13 @@ public class SumofStream {
         while(n != -1){
 
             System.out.print("Enter next Number : ");
+            
+            sum  = sum + n;
             n = in.nextInt();
-
-            if(n != -1){
-                sum = sum + n;
-            }
+            
+            // if(n != -1){
+            //     sum = sum + n;
+            // }
             
         }
 
