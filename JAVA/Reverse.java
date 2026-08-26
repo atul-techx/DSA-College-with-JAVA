@@ -13,5 +13,7 @@ class Reverse {
             x = x/10;
         }
         System.out.println("Your Reverse number is : " + rev);
+
+        in.close();
     }
 }

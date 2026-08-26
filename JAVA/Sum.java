@@ -12,5 +12,7 @@ public class Sum {
             i++;
         }
         System.out.println("Sum of all numbers till a : "+ sum);
+
+        input.close();
     }
 }

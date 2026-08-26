@@ -20,5 +20,7 @@ public class Nestedif {
             System.out.println("You are Underage.");
         }
 
+        input.close();
+
     }
 }

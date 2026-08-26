@@ -20,5 +20,7 @@ public class Grading {
         }else{
             System.out.println("Enter Valid Input (0-100).");
         }
+
+        input.close();
     }
 }

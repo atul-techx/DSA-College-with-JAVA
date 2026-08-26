@@ -14,5 +14,6 @@ public class Conditionals {
         }else{
             System.out.println("You are eligible for Vote.");
         }
+        input.close();
     }
 }

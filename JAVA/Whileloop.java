@@ -20,6 +20,8 @@ public class Whileloop {
             System.out.println(a);
             a--;
         }
+
+        input.close();
     }
 }
 

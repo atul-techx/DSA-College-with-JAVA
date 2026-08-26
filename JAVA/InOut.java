@@ -10,7 +10,10 @@ public class InOut{
         int Num = input.nextInt();
 
         System.out.println("My age is : " + Age + " and the number i entered is : " + Num);
+
+        input.close();
     }
+    
 }
 
 

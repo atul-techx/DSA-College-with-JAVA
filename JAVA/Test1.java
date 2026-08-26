@@ -24,5 +24,7 @@ public class Test1 {
         char Ch = input.next().charAt(0);
         System.out.println("The Character is : "+Ch);
 
+        input.close();
+
     }   
 }

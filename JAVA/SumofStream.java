@@ -13,7 +13,7 @@ public class SumofStream {
             
             sum  = sum + n;
             n = in.nextInt();
-            
+
             // if(n != -1){
             //     sum = sum + n;
             // }
@@ -22,6 +22,6 @@ public class SumofStream {
 
         System.out.println("Sum is : " + sum);
 
-       
+        in.close();
     }
 }

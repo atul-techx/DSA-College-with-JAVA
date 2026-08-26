@@ -12,5 +12,7 @@ public class Voting {
         }else{
             System.out.println("You are not eligible for vote");
         }
+
+        input.close();
     }
 }
