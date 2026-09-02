@@ -13,6 +13,8 @@ public class OnetoN {
 
             System.out.print(i+ " ");
         }
+
+        input.close();
         
         
     }
