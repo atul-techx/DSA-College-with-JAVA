@@ -8,12 +8,13 @@ public class Hollowrec {
                     System.out.print("* ");
                 }else if (i==2 || i==3) {
                     if (j==1 || j==6) {
-                        System.out.println("* ");
+                        System.out.print("* ");
                     }else{
-                        System.out.print(" ");
+                        System.out.print("  ");
                     }
                 }
             }
+            System.out.println();
         }
     }
 }
