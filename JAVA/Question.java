@@ -14,6 +14,8 @@ public class Question{
         }
 
         System.out.print("The ans is : " + sum);
+
+        in.close();
     
     }
 }
