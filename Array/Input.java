@@ -19,5 +19,7 @@ public class Input {
             System.out.print(arr[i] + " ");
         }
 
+        in.close();
+
     }
 }
