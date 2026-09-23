@@ -20,9 +20,16 @@ public class NumberTriangle {
         //     System.out.println();
         // }
 
+        // for(int i=1; i<=n; i++){
+        //     for(int j=1; j<=i; j++){
+        //         System.out.print((char)(j+96) + " ");  // For Small Letters [a, a b, a b c, a b c d]
+        //     }
+        //     System.out.println();
+        // }
+
         for(int i=1; i<=n; i++){
             for(int j=1; j<=i; j++){
-                System.out.print((char)(j+96) + " ");  // For Small Letters [a, a b, a b c, a b c d]
+                System.out.print((char)(i+64) + " ");  // For Capital Letters [A, B B, C C C, D D D D]
             }
             System.out.println();
         }
