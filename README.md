@@ -1,4 +1,4 @@
-# 🚀 DSA College with JAVA
+# 🚀 DSA College With JAVA
 
 A structured and comprehensive collection of Java programs, foundational concepts, and Data Structures & Algorithms (DSA) prepared for college curriculum, coding interviews, and competitive programming.
 
