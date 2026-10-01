@@ -128,4 +128,4 @@ Contributions, problem additions, and optimizations are welcome!
 
 ## 👤 Author
 
-- **Atul** - [@atul-techx](https://github.com/atul-techx)
+- **Atul Gangwar** - [@atul-techx](https://github.com/atul-techx)
