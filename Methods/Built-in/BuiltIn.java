@@ -14,7 +14,9 @@ public class BuiltIn {
         System.out.println(Math.ceil(-7.8));    // -7
 
         System.out.println(Math.min(24,45 ));   // Gives Minimum Value
+        System.out.println(Math.min(-45,-25));   
 
         System.out.println(Math.max(24, 45));   // Gives Maximum Value
+        System.out.println(Math.max(-45, -25));
     }
 }
