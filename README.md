@@ -76,19 +76,19 @@ java -version
 
 ### Compiling & Running Programs
 
-1. **Clone the repository:**
+1. **Clone the repository: **
    ```bash
    git clone https://github.com/atul-techx/DSA-College-with-JAVA.git
    cd DSA-College-with-JAVA
    ```
 
-2. **Run a program from the `JAVA` folder:**
+2. **Run a program from the `JAVA` folder: **
    ```bash
    javac JAVA/Hello.java
    java -cp JAVA Hello
    ```
 
-3. **Run a program from the `Pattern` folder:**
+3. **Run a program from the `Pattern` folder: **
    ```bash
    javac Pattern/Hollowrec.java
    java -cp Pattern Hollowrec
