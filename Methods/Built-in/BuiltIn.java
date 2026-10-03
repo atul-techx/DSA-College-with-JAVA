@@ -8,7 +8,7 @@ public class BuiltIn {
         System.out.println(Math.abs(87));
 
         System.out.println(Math.floor(4.7));  // For Highest Close value (Floor)
-        System.out.println(Math.floor(-7.8));   // -8
+        System.out.println(Math.floor(-7.4));   // -8
 
         System.out.println(Math.ceil(2.9)); // For Minimum Close Value (Ceiling)
         System.out.println(Math.ceil(-7.8));    // -7
