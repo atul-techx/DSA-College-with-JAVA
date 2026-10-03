@@ -17,6 +17,6 @@ public class BuiltIn {
         System.out.println(Math.min(-45,-27));   
 
         System.out.println(Math.max(24, 45));   // Gives Maximum Value
-        System.out.println(Math.max(-45, -25));
+        System.out.println(Math.max(-45, -27));
     }
 }
