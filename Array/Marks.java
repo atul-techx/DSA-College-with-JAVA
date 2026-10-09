@@ -2,7 +2,7 @@
 
 class Marks{
     public static void main(String[] args) {
-        int marks[] = {40,30,35,60,70};
+        int marks[] = {20,45,85,78,89,65,48};
 
         // System.out.println("Index 2: " + marks[2]);
 
