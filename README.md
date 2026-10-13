@@ -102,7 +102,7 @@ java -version
 - [x] Operators & Conditionals
 - [x] Loops & Iteration
 - [x] Basic Pattern Problems
-- [x] Advanced Patterns & Matrix Traversal
+- [ ] Advanced Patterns & Matrix Traversal
 - [ ] 1D & 2D Arrays
 - [ ] Strings & String Manipulation
 - [ ] Functions / Methods & Recursion

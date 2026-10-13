@@ -10,5 +10,7 @@ public class MaxofThree {
         double c = in.nextDouble();
 
         System.out.println(Math.max(a, Math.max(b, c)));
+
+        in.close();
     }
 }

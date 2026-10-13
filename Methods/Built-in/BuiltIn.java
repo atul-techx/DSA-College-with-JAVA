@@ -18,5 +18,11 @@ public class BuiltIn {
 
         System.out.println(Math.max(25, 45));   // Gives Maximum Value
         System.out.println(Math.max(-45, -27));
+
+        System.out.println(Math.pow(2,6 ));     // Gives a^b
+        System.out.println(Math.pow(-3.1415, -3.1415));    // Gives NaN (Not a Number)
+
+        System.out.println(Math.pow(0, 0));     // Mostly 0^0 shows 1 But in Mathematics 0^0 is undefined 
+                                                          // so Basically the valur of 0^0 depends on the context which we are using it 
     }
 }
