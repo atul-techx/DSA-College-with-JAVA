@@ -6,7 +6,7 @@ A structured and comprehensive collection of Java programs, foundational concept
 
 ## 📌 Repository Overview
 
-This repository documents hands-on practice, concept implementations, and problem-solving exercises in Java. It covers everything from core syntax and control flow to pattern printing and algorithmic problem solving.
+This repository documents hands-on practice, concept implementations, and problem - solving exercises in Java. It covers everything from core syntax and control flow to pattern printing and algorithmic problem solving.
 
 ```
 DSA-College-with-JAVA/
