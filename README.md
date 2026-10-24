@@ -22,7 +22,7 @@ DSA-College-with-JAVA/
 │   ├── Nestedif.java        # Nested conditional logic
 │   ├── Grading.java         # Student grading system logic
 │   ├── Voting.java          # Eligibility check program
-│   ├── Whileloop.java       # While loop iteration basics
+│   ├── Whileloop.java       # While loop iteration  basics
 │   ├── OnetoN.java          # Printing numbers from 1 to N
 │   ├── Table.java           # Multiplication table generator
 │   ├── Sum.java             # Sum of natural numbers / digits
